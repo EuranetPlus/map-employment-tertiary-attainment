@@ -1,12 +1,12 @@
 {
-  "heading": "Is better educational attainment a job guarantee?",
-  "subheading": "The employment rate among the population with a tertiary education in 2023 is as high as 86.3%.",
+  "heading": "Is a better level of education a job guarantee?",
+  "subheading": " In 2023, the employment rate of the population with a higher education qualification reached 86.3%.",
   "legend1": "No data available",
   "tooltip1": "of 20-64 aged",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "The employment rate is calculated for people aged 20-64 years who had attained a high level of education. Tertiary education refers to ISCED levels 5-8. For low level of education (ISCED levels 0-2), the rate stands at 58.3 %. For medium level of education the rate stands at 74.6 % (ISCED levels 3-4).",
+  "textNote": "The employment rate is calculated for people aged between 20 and 64 with a high level of education. Tertiary education corresponds to ISCED levels 5-8. For a low level of education (ISCED levels 0-2), the rate is 58.3%.; for a medium level (ISCED levels 3-4) it is 74.6%.",
   "textDataAccess": "Access the data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
   "textCountryClick": "Click for more info"
