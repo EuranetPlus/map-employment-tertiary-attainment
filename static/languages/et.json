@@ -1,12 +1,12 @@
 {
-  "heading": "Kas parem haridustase on töökoha garantii?",
-  "subheading": " 2023. aastal ulatus kõrgharidusega elanikkonna tööhõive määr 86,3%-ni.",
-  "legend1": "Andmed puuduvad",
-  "tooltip1": "vanuses 20-64",
+  "heading": "Kas kõrgem haridustase on töö garantii?",
+  "subheading": "2023. aastal ulatus kõrgharidusega elanikkonna tööhõive määr 86,3%-ni.",
+  "legend1": "Andmed pole saadaval",
+  "tooltip1": "20–64-aastastest",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat",
   "textNoteDescription": "Märkus",
-  "textNote": "Tööhõive määr arvutatakse 20–64-aastastele kõrge haridustasemega inimestele. Kolmanda taseme haridus vastab ISCED 5.–8. tasemele. Madala haridustaseme (ISCED tase 0–2) puhul on see määr 58,3%. keskmisel tasemel (ISCED tase 3-4) on see 74,6%.",
+  "textNote": "Tööhõive määr arvutatakse 20–64-aastaste inimeste kohta, kellel on kõrge haridustase. Kolmanda taseme haridus vastab ISCED tasemetele 5–8. Madala haridustaseme (ISCED tasemed 0–2) puhul on see määr 58,3%; keskmise haridustaseme (ISCED tasemed 3–4) puhul on see 74,6%.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
   "textCountryClick": "Lisateabe saamiseks klõpsake"

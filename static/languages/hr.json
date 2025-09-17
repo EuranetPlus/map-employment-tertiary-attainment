@@ -1,13 +1,13 @@
 {
-  "heading": "Je li bolja razina obrazovanja garancija posla?",
-  "subheading": " U 2023. godini stopa zaposlenosti stanovništva s visokom stručnom spremom dosegnula je 86,3%.",
+  "heading": "Je li bolja razina obrazovanja jamstvo zaposlenja?",
+  "subheading": "U 2023. godini stopa zaposlenosti stanovništva s visokom stručnom spremom dosegla je 86,3%.",
   "legend1": "Nema dostupnih podataka",
-  "tooltip1": "od 20-64 godine starosti",
+  "tooltip1": "od 20 do 64 godine",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat",
   "textNoteDescription": "Bilješka",
-  "textNote": "Stopa zaposlenosti izračunata je za osobe u dobi od 20 do 64 godine s visokim stupnjem obrazovanja. Tercijarno obrazovanje odgovara razinama ISCED 5-8. Za nisku razinu obrazovanja (ISCED razine 0-2), stopa je 58,3 %; za srednju razinu (ISCED razine 3-4) iznosi 74,6%.",
-  "textDataAccess": "Pristupite podacima",
+  "textNote": "Stopa zaposlenosti izračunava se za osobe u dobi između 20 i 64 godine s visokom razinom obrazovanja. Visoko obrazovanje odgovara razinama ISCED 5-8. Za nisku razinu obrazovanja (razine ISCED 0-2) stopa je 58,3%. Za srednju razinu (razine ISCED 3-4) iznosi 74,6%.",
+  "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
   "textCountryClick": "Kliknite za više informacija"
 }

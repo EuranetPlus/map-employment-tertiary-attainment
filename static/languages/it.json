@@ -6,8 +6,8 @@
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Il tasso di occupazione è calcolato per le persone di età compresa tra 20 e 64 anni con un livello di istruzione elevato. L'istruzione terziaria corrisponde ai livelli ISCED 5-8. Per un livello di istruzione basso (livelli ISCED 0-2), il tasso è del 58,3%.; per un livello medio (livelli ISCED 3-4) è del 74,6%.",
+  "textNote": "Il tasso di occupazione è calcolato per le persone di età compresa tra 20 e 64 anni con un livello di istruzione elevato. L'istruzione terziaria corrisponde ai livelli ISCED 5-8. Per un livello di istruzione basso (livelli ISCED 0-2), il tasso è del 58,3%; per un livello di istruzione medio (livelli ISCED 3-4) è del 74,6%.",
   "textDataAccess": "Accedi ai dati",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=it",
   "textCountryClick": "Clicca per maggiori informazioni"
 }

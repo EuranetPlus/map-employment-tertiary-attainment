@@ -1,13 +1,13 @@
 {
-  "heading": "Je vyššia úroveň vzdelania zárukou zamestnania?",
-  "subheading": " V roku 2023 dosiahla miera zamestnanosti obyvateľstva s vysokoškolským vzdelaním 86,3 %.",
+  "heading": "Je lepšie vzdelanie zárukou zamestnania?",
+  "subheading": "V roku 2023 dosiahla miera zamestnanosti obyvateľstva s vysokoškolským vzdelaním 86,3 %.",
   "legend1": "Nie sú k dispozícii žiadne údaje",
-  "tooltip1": "vo veku 20-64 rokov",
+  "tooltip1": "vo veku 20 – 64 rokov",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
-  "textNote": "Miera zamestnanosti sa počíta pre ľudí vo veku od 20 do 64 rokov s vysokým stupňom vzdelania. Terciárne vzdelávanie zodpovedá úrovniam ISCED 5-8. Pre nízku úroveň vzdelania (ISCED úrovne 0-2) je táto miera 58,3 %. pre strednú úroveň (úrovne ISCED 3-4) je to 74,6 %.",
+  "textNote": "Miera zamestnanosti sa vypočítava pre osoby vo veku od 20 do 64 rokov s vysokou úrovňou vzdelania. Terciárne vzdelanie zodpovedá úrovniam ISCED 5 – 8. Pre nízku úroveň vzdelania (úrovne ISCED 0 – 2) je miera 58,3 %; pre strednú úroveň (úrovne ISCED 3 – 4) je to 74,6 %.",
   "textDataAccess": "Prístup k údajom",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=sk",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
   "textCountryClick": "Kliknite pre viac informácií"
 }

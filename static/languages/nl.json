@@ -6,8 +6,8 @@
   "textSourceDescription": "Bron",
   "textSource": "Eurostat",
   "textNoteDescription": "Opmerking",
-  "textNote": "Het werkgelegenheidspercentage wordt berekend voor mensen tussen de 20 en 64 jaar met een hoog opleidingsniveau. Tertiair onderwijs komt overeen met ISCED-niveaus 5-8. Voor een laag opleidingsniveau (ISCED-niveaus 0-2) is het percentage 58,3%; voor een gemiddeld niveau (ISCED-niveaus 3-4) is het 74,6%.",
+  "textNote": "De werkgelegenheidsgraad wordt berekend voor mensen tussen de 20 en 64 jaar met een hoog opleidingsniveau. Tertiair onderwijs komt overeen met ISCED-niveaus 5-8. Voor een laag opleidingsniveau (ISCED-niveaus 0-2) is het percentage 58,3%; voor een gemiddeld opleidingsniveau (ISCED-niveaus 3-4) is het 74,6%.",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
-  "textCountryClick": "Klik voor meer info"
+  "textCountryClick": "Klik voor meer informatie"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Vai labāks izglītības līmenis ir darba garantija?",
-  "subheading": " 2023.gadā iedzīvotāju ar augstākās izglītības kvalifikāciju nodarbinātības līmenis sasniedza 86,3%.",
-  "legend1": "Nav pieejami dati",
-  "tooltip1": "no 20 līdz 64 gadiem",
+  "heading": "Vai augstāka izglītība garantē darbu?",
+  "subheading": "2023. gadā iedzīvotāju ar augstāko izglītību nodarbinātības līmenis sasniedza 86,3%.",
+  "legend1": "Dati nav pieejami",
+  "tooltip1": "vecumā no 20 līdz 64 gadiem",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat",
   "textNoteDescription": "Piezīme",
-  "textNote": "Nodarbinātības līmenis tiek aprēķināts cilvēkiem vecumā no 20 līdz 64 gadiem ar augstu izglītības līmeni. Augstākā izglītība atbilst ISCED 5.–8. līmenim. Zemam izglītības līmenim (ISCED 0-2 līmenis) rādītājs ir 58,3 %; vidējam līmenim (ISCED 3.-4. līmenis) tas ir 74,6%.",
+  "textNote": "Nodarbinātības līmenis tiek aprēķināts cilvēkiem vecumā no 20 līdz 64 gadiem ar augstu izglītības līmeni. Augstākā izglītība atbilst ISCED 5.–8. līmenim. Zemam izglītības līmenim (ISCED 0.–2. līmenis) šis līmenis ir 58,3 %; vidējam līmenim (ISCED 3.–4. līmenis) tas ir 74,6 %.",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

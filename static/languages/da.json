@@ -1,13 +1,13 @@
 {
   "heading": "Er et bedre uddannelsesniveau en jobgaranti?",
-  "subheading": " I 2023 nåede beskæftigelsesfrekvensen for befolkningen med en videregående uddannelse op på 86,3 %.",
-  "legend1": "Ingen tilgængelige data",
+  "subheading": "I 2023 nåede beskæftigelsesfrekvensen for befolkningen med en videregående uddannelse 86,3 %.",
+  "legend1": "Ingen data tilgængelige",
   "tooltip1": "i alderen 20-64",
   "textSourceDescription": "Kilde",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "Beskæftigelsesprocenten er beregnet for personer mellem 20 og 64 år med et højt uddannelsesniveau. Videregående uddannelser svarer til ISCED niveau 5-8. For et lavt uddannelsesniveau (ISCED-niveau 0-2) er satsen 58,3 %; for et mellemniveau (ISCED-niveau 3-4) er det 74,6 %.",
-  "textDataAccess": "Få adgang til data",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=da",
-  "textCountryClick": "Klik for mere info"
+  "textNote": "Beskæftigelsesfrekvensen beregnes for personer mellem 20 og 64 år med et højt uddannelsesniveau. Videregående uddannelse svarer til ISCED-niveau 5-8. For et lavt uddannelsesniveau (ISCED-niveau 0-2) er frekvensen 58,3 %; for et mellemniveau (ISCED-niveau 3-4) er den 74,6 %.",
+  "textDataAccess": "Få adgang til dataene",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
+  "textCountryClick": "Klik for mere information"
 }

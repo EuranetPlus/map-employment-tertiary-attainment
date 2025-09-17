@@ -1,13 +1,13 @@
 {
-  "heading": "Czy wyższy poziom wykształcenia jest gwarancją pracy?",
+  "heading": "Czy lepszy poziom wykształcenia jest gwarancją pracy?",
   "subheading": "W 2023 roku wskaźnik zatrudnienia osób z wykształceniem wyższym osiągnął 86,3%.",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "w wieku 20-64 lat",
   "textSourceDescription": "Źródło",
   "textSource": "Eurostat",
   "textNoteDescription": "Notatka",
-  "textNote": "Wskaźnik zatrudnienia oblicza się dla osób w wieku od 20 do 64 lat z wysokim poziomem wykształcenia. Wykształcenie wyższe odpowiada poziomom ISCED 5-8. Dla niskiego poziomu wykształcenia (poziomy ISCED 0-2) wskaźnik wynosi 58,3%; dla średniego poziomu (poziomy ISCED 3-4) wynosi 74,6%.",
-  "textDataAccess": "Uzyskaj dostęp do danych",
+  "textNote": "Wskaźnik zatrudnienia oblicza się dla osób w wieku 20–64 lat z wysokim wykształceniem. Wykształcenie wyższe odpowiada poziomom ISCED 5–8. Dla niskiego poziomu wykształcenia (poziomy ISCED 0–2) wskaźnik ten wynosi 58,3%; dla średniego poziomu wykształcenia (poziomy ISCED 3–4) – 74,6%.",
+  "textDataAccess": "Dostęp do danych",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

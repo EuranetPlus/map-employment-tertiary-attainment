@@ -1,13 +1,13 @@
 {
-  "heading": "Ar geresnis išsilavinimo lygis yra darbo garantija?",
-  "subheading": " 2023 metais gyventojų, turinčių aukštąjį išsilavinimą, užimtumo lygis siekė 86,3 proc.",
+  "heading": "Ar aukštesnis išsilavinimo lygis garantuoja darbą?",
+  "subheading": "2023 m. gyventojų, įgijusių aukštąjį išsilavinimą, užimtumo lygis pasiekė 86,3 %.",
   "legend1": "Nėra duomenų",
-  "tooltip1": "20-64 metų amžiaus",
+  "tooltip1": "20–64 metų amžiaus",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas",
   "textNoteDescription": "Pastaba",
-  "textNote": "Užimtumo lygis skaičiuojamas 20–64 metų amžiaus žmonėms, turintiems aukštą išsilavinimą. Aukštasis išsilavinimas atitinka ISCED 5–8 lygius. Žemo išsilavinimo (ISCED 0–2 lygiai) rodiklis yra 58,3 %; vidutiniam lygiui (ISCED 3-4 lygiai) – 74,6 proc.",
-  "textDataAccess": "Pasiekite duomenis",
+  "textNote": "Užimtumo lygis skaičiuojamas 20–64 metų amžiaus asmenims, turintiems aukštąjį išsilavinimą. Aukštasis išsilavinimas atitinka ISCED 5–8 lygius. Žemo išsilavinimo lygio (ISCED 0–2 lygiai) atveju šis rodiklis yra 58,3 %, o vidutinio išsilavinimo lygio (ISCED 3–4 lygiai) atveju – 74,6 %.",
+  "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

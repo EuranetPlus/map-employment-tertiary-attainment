@@ -1,13 +1,13 @@
 {
-  "heading": "Je lepší úroveň vzdělání zárukou zaměstnání?",
-  "subheading": " V roce 2023 dosáhla míra zaměstnanosti populace s vysokoškolským vzděláním 86,3 %.",
-  "legend1": "Nejsou k dispozici žádné údaje",
-  "tooltip1": "ve věku 20-64 let",
+  "heading": "Je lepší vzdělání zárukou zaměstnání?",
+  "subheading": "V roce 2023 dosáhla míra zaměstnanosti obyvatel s vysokoškolským vzděláním 86,3 %.",
+  "legend1": "Žádné údaje k dispozici",
+  "tooltip1": "ve věku 20–64 let",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
-  "textNote": "Míra zaměstnanosti se počítá pro osoby ve věku 20 až 64 let s vysokým vzděláním. Terciární vzdělávání odpovídá úrovním ISCED 5-8. Pro nízkou úroveň vzdělání (úrovně ISCED 0-2) je tato míra 58,3 %. pro střední úroveň (úrovně ISCED 3-4) je to 74,6 %.",
+  "textNote": "Míra zaměstnanosti se vypočítává pro osoby ve věku 20 až 64 let s vysokým vzděláním. Terciární vzdělání odpovídá úrovním ISCED 5–8. Pro nízkou úroveň vzdělání (úrovně ISCED 0–2) je míra 58,3 %; pro střední úroveň (úrovně ISCED 3–4) je to 74,6 %.",
   "textDataAccess": "Přístup k datům",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=cs",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
   "textCountryClick": "Klikněte pro více informací"
 }

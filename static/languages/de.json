@@ -1,12 +1,12 @@
 {
   "heading": "Ist ein höherer Bildungsabschluss eine Jobgarantie?",
-  "subheading": "Im Jahr 2023 lag die Beschäftigungsquote der Bevölkerung mit Hochschulabschluss bei 86,3 %.",
+  "subheading": "Im Jahr 2023 erreichte die Beschäftigungsquote der Bevölkerung mit Hochschulabschluss 86,3 %.",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "von 20-64 Jahren",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat",
   "textNoteDescription": "Notiz",
-  "textNote": "Die Beschäftigungsquote wird für Personen im Alter zwischen 20 und 64 Jahren mit hohem Bildungsniveau berechnet. Die Hochschulbildung entspricht den ISCED-Stufen 5 bis 8. Für ein niedriges Bildungsniveau (ISCED-Stufen 0 bis 2) beträgt die Quote 58,3 %; für ein mittleres Bildungsniveau (ISCED-Stufen 3 bis 4) beträgt sie 74,6 %.",
+  "textNote": "Die Beschäftigungsquote wird für Personen im Alter zwischen 20 und 64 Jahren mit hohem Bildungsniveau berechnet. Der Tertiärbereich entspricht den ISCED-Stufen 5-8. Für ein niedriges Bildungsniveau (ISCED-Stufen 0-2) beträgt die Quote 58,3 %; für ein mittleres Bildungsniveau (ISCED-Stufen 3-4) 74,6 %.",
   "textDataAccess": "Zugriff auf die Daten",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
   "textCountryClick": "Klicken Sie hier für weitere Informationen"

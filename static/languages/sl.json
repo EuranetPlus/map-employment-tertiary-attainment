@@ -1,12 +1,12 @@
 {
-  "heading": "Je višja stopnja izobrazbe zagotovilo za zaposlitev?",
-  "subheading": " Leta 2023 je stopnja delovne aktivnosti prebivalstva z visokošolsko izobrazbo dosegla 86,3 %.",
-  "legend1": "Podatki niso na voljo",
-  "tooltip1": "od 20-64 let",
+  "heading": "Je boljša raven izobrazbe zagotovilo za zaposlitev?",
+  "subheading": "Leta 2023 je stopnja zaposlenosti prebivalstva z visokošolsko izobrazbo dosegla 86,3 %.",
+  "legend1": "Ni na voljo podatkov",
+  "tooltip1": "starih od 20 do 64 let",
   "textSourceDescription": "Vir",
   "textSource": "Eurostat",
   "textNoteDescription": "Opomba",
-  "textNote": "Stopnja delovne aktivnosti je izračunana za osebe v starosti od 20 do 64 let z visoko stopnjo izobrazbe. Terciarno izobraževanje ustreza stopnjam ISCED 5-8. Za nizko stopnjo izobrazbe (ISCED ravni 0-2) je stopnja 58,3 %; za srednjo stopnjo (ISCED stopnje 3-4) je 74,6 %.",
+  "textNote": "Stopnja zaposlenosti se izračuna za osebe, stare med 20 in 64 let, z visoko stopnjo izobrazbe. Terciarna izobrazba ustreza stopnjam ISCED 5–8. Za nizko stopnjo izobrazbe (stopnje ISCED 0–2) je stopnja 58,3 %; za srednjo stopnjo (stopnje ISCED 3–4) pa 74,6 %.",
   "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
   "textCountryClick": "Kliknite za več informacij"

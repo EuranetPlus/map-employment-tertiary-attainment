@@ -6,7 +6,7 @@
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "Le taux d'emploi est calculé pour les personnes âgées de 20 à 64 ans ayant un niveau d'éducation élevé. L'enseignement supérieur correspond aux niveaux CITE 5 à 8. Pour un niveau d'éducation faible (niveaux CITE 0 à 2), le taux est de 58,3 % ; pour un niveau moyen (niveaux CITE 3 à 4), il est de 74,6 %.",
+  "textNote": "Le taux d'emploi est calculé pour les personnes âgées de 20 à 64 ans ayant un niveau d'éducation élevé. L'enseignement supérieur correspond aux niveaux CITE 5 à 8. Pour un niveau d'éducation faible (niveaux CITE 0 à 2), le taux est de 58,3 % ; pour un niveau d'éducation moyen (niveaux CITE 3 à 4), il est de 74,6 %.",
   "textDataAccess": "Accéder aux données",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=fr",
   "textCountryClick": "Cliquez pour plus d'informations"

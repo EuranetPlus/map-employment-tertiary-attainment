@@ -1,13 +1,13 @@
 {
-  "heading": "A jobb iskolai végzettség garancia a munkahelyre?",
-  "subheading": " 2023-ban a felsőfokú végzettséggel rendelkező lakosság foglalkoztatási rátája elérte a 86,3%-ot.",
-  "legend1": "Nincs adat",
-  "tooltip1": "20-64 évesek",
+  "heading": "A magasabb iskolai végzettség garantálja a munkát?",
+  "subheading": "2023-ban a felsőfokú végzettséggel rendelkező lakosság foglalkoztatási rátája elérte a 86,3%-ot.",
+  "legend1": "Nincsenek elérhető adatok",
+  "tooltip1": "20-64 éves korosztály",
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat",
   "textNoteDescription": "Jegyzet",
-  "textNote": "A foglalkoztatási rátát a 20 és 64 év közötti, magas iskolai végzettségűekre számítják ki. A felsőoktatás az ISCED 5-8. szintjének felel meg. Alacsony iskolai végzettség esetén (ISCED 0-2 szint) az arány 58,3%. közepes szinten (ISCED 3-4 szint) 74,6%.",
+  "textNote": "A foglalkoztatási rátát a 20 és 64 év közötti, magas szintű iskolai végzettséggel rendelkező személyekre számítják ki. A felsőfokú végzettség az ISCED 5-8. szintnek felel meg. Alacsony szintű iskolai végzettség (ISCED 0-2. szint) esetén az arány 58,3%, közepes szintű iskolai végzettség (ISCED 3-4. szint) esetén pedig 74,6%.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
-  "textCountryClick": "További információért kattintson"
+  "textCountryClick": "Kattintson a további információkért"
 }

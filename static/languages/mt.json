@@ -1,13 +1,13 @@
 {
-  "heading": "Livell aħjar ta' edukazzjoni huwa garanzija tax-xogħol?",
-  "subheading": " Fl-2023, ir-rata ta’ impjieg tal-popolazzjoni bi kwalifika ta’ edukazzjoni ogħla laħqet 86.3%.",
-  "legend1": "Ebda data disponibbli",
-  "tooltip1": "ta’ 20-64 età",
+  "heading": "Livell aħjar ta’ edukazzjoni huwa garanzija ta’ xogħol?",
+  "subheading": "Fl-2023, ir-rata ta’ impjieg tal-popolazzjoni b’kwalifika ta’ edukazzjoni għolja laħqet it-86.3%.",
+  "legend1": "L-ebda dejta disponibbli",
+  "tooltip1": "ta' bejn l-20 u l-64 sena",
   "textSourceDescription": "Sors",
-  "textSource": "Eurostat",
+  "textSource": "L-Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Ir-rata ta’ impjieg hija kkalkulata għal nies ta’ bejn l-20 u l-64 sena b’livell għoli ta’ edukazzjoni. L-edukazzjoni terzjarja tikkorrispondi għal-livelli ISCED 5-8. Għal livell baxx ta’ edukazzjoni (livelli ISCED 0-2), ir-rata hija 58.3%.; għal livell medju (livelli ISCED 3-4) huwa 74.6%.",
-  "textDataAccess": "Aċċessa għad-data",
+  "textNote": "Ir-rata ta' impjieg hija kkalkulata għal persuni ta' bejn l-20 u l-64 sena b'livell għoli ta' edukazzjoni. L-edukazzjoni terzjarja tikkorrispondi għal-livelli ISCED 5-8. Għal livell baxx ta' edukazzjoni (livelli ISCED 0-2), ir-rata hija ta' 58.3%.; għal livell medju (livelli ISCED 3-4) hija ta' 74.6%.",
+  "textDataAccess": "Aċċessa d-dejta",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
-  "textCountryClick": "Ikklikkja għal aktar informazzjoni"
+  "textCountryClick": "Ikklikkja għal aktar tagħrif"
 }
