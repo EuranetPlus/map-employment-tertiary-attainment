@@ -1,12 +1,12 @@
 {
-  "heading": "Um melhor nível de educação é garantia de emprego?",
-  "subheading": "Em 2023, a taxa de emprego da população com qualificação de ensino superior atingiu 86,3%.",
-  "legend1": "Nenhum dado disponível",
-  "tooltip1": "de 20 a 64 anos",
+  "heading": "Um nível de escolaridade mais elevado garante um emprego?",
+  "subheading": "Em 2025, a taxa de emprego da população com formação superior atingiu 88,1% na UE.",
+  "legend1": "Não há dados disponíveis.",
+  "tooltip1": "de 20 a 64 anos de idade",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Observação",
-  "textNote": "A taxa de emprego é calculada para pessoas entre 20 e 64 anos com alto nível de escolaridade. O ensino superior corresponde aos níveis 5 a 8 do ISCED. Para um nível de escolaridade baixo (níveis 0 a 2 do ISCED), a taxa é de 58,3%. Para um nível médio (níveis 3 a 4 do ISCED), é de 74,6%.",
+  "textNote": "A taxa de emprego é calculada para pessoas entre 20 e 64 anos com alto nível de escolaridade. O ensino superior corresponde aos níveis 5 a 8 da ISCED. Para um nível de escolaridade baixo (níveis 0 a 2 da ISCED), a taxa é de 58,3%; para um nível médio (níveis 3 e 4 da ISCED), é de 74,6%.",
   "textDataAccess": "Acesse os dados",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
   "textCountryClick": "Clique para mais informações"

@@ -1,13 +1,13 @@
 {
-  "heading": "Un meilleur niveau d’éducation est-il une garantie d’emploi ?",
-  "subheading": "En 2023, le taux d’emploi de la population possédant un diplôme de l’enseignement supérieur a atteint 86,3%.",
+  "heading": "Un meilleur niveau d'éducation est-il une garantie d'emploi ?",
+  "subheading": "En 2025, le taux d'emploi de la population titulaire d'un diplôme de l'enseignement supérieur a atteint 88,1 % dans l'UE.",
   "legend1": "Aucune donnée disponible",
   "tooltip1": "de 20 à 64 ans",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "Le taux d'emploi est calculé pour les personnes âgées de 20 à 64 ans ayant un niveau d'éducation élevé. L'enseignement supérieur correspond aux niveaux CITE 5 à 8. Pour un niveau d'éducation faible (niveaux CITE 0 à 2), le taux est de 58,3 % ; pour un niveau d'éducation moyen (niveaux CITE 3 à 4), il est de 74,6 %.",
+  "textNote": "Le taux d'emploi est calculé pour les personnes âgées de 20 à 64 ans ayant un niveau d'études élevé. L'enseignement supérieur correspond aux niveaux 5 à 8 de la CITE. Pour un faible niveau d'études (niveaux 0 à 2 de la CITE), le taux est de 58,3 % ; pour un niveau moyen (niveaux 3 et 4 de la CITE), il est de 74,6 %.",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=fr",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
   "textCountryClick": "Cliquez pour plus d'informations"
 }

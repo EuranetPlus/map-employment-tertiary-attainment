@@ -1,13 +1,13 @@
 {
-  "heading": "Un livello di istruzione più elevato garantisce un posto di lavoro?",
-  "subheading": "Nel 2023 il tasso di occupazione della popolazione con un titolo di studio superiore ha raggiunto l'86,3%.",
+  "heading": "Un livello di istruzione più elevato garantisce un lavoro?",
+  "subheading": "Nel 2025, il tasso di occupazione della popolazione in possesso di un titolo di studio superiore ha raggiunto l'88,1% nell'UE.",
   "legend1": "Nessun dato disponibile",
   "tooltip1": "di età compresa tra 20 e 64 anni",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Il tasso di occupazione è calcolato per le persone di età compresa tra 20 e 64 anni con un livello di istruzione elevato. L'istruzione terziaria corrisponde ai livelli ISCED 5-8. Per un livello di istruzione basso (livelli ISCED 0-2), il tasso è del 58,3%; per un livello di istruzione medio (livelli ISCED 3-4) è del 74,6%.",
-  "textDataAccess": "Accedi ai dati",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=it",
+  "textNote": "Il tasso di occupazione è calcolato per le persone di età compresa tra 20 e 64 anni con un elevato livello di istruzione. L'istruzione terziaria corrisponde ai livelli ISCED 5-8. Per un basso livello di istruzione (livelli ISCED 0-2), il tasso è del 58,3%; per un livello medio (livelli ISCED 3-4) è del 74,6%.",
+  "textDataAccess": "Accedere ai dati",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
   "textCountryClick": "Clicca per maggiori informazioni"
 }
